@@ -1,10 +1,10 @@
 import "./style.css";
 import "./task-1";
 import "./task-2";
-import "./ask-3";
-import './ask-4';
-import './ask-5';
-import './ask-6';
-import './ask-7';
-import './ask-8';
+import "./task-3";
+import './task-4';
+import './task-5';
+import './task-6';
+import './task-7';
+import './task-8';
 
